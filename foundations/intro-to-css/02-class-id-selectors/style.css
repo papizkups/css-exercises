@@ -1,19 +1,15 @@
-.number1,
-.number2,
-.number3 {
-    background-color: rgb(235, 149, 149);
-    color: black;
+.odd {
+    background-color: rgb(255, 167, 167);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 #first-id {
-    color: blue;
+    color: #0000ff;
     font-size: 36px;
 }
-.number2 {
+.but-cooler {
     font-size: 24px;
 }
 #second-id {
-    background-color: rgb(159, 228, 159);
-    font-size: 24px;
+    background-color: hsl(120, 100%, 75%);
     font-weight: bold;
 }
